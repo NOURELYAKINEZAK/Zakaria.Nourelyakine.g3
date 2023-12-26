@@ -1,0 +1,7 @@
+input BookDtoInput{
+    title: String
+    publisher:String
+    price: Float
+    datePublication : String
+    resume : String
+}
